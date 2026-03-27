@@ -1,6 +1,6 @@
 # Healthcare Claims Analysis  
 
-This project demonstrates how a Business Analyst approaches the optimization of healthcare claims processing. It showcases real-world BA deliverables — from requirements gathering to SQL analysis and dashboard reporting — in the insurance and healthcare domain.  
+This project is optimization of healthcare claims processing. It showcases real-world BA deliverables — from requirements gathering to SQL analysis and dashboard reporting — in the insurance and healthcare domain.  
 
 ---
 
@@ -10,8 +10,7 @@ The healthcare claims process often suffers from high denial rates, long process
 - Designed a **process workflow** to highlight adjudication paths  
 - Wrote **SQL queries** to analyze denial reasons, cycle times, and provider performance  
 - Created a **Power BI dashboard** (mocked with sample data) to present KPIs to leadership  
-
-The objective is to show end-to-end Business Analyst skills in documentation, data analysis, and visualization.  
+ 
 
 ---
 
@@ -42,9 +41,4 @@ The objective is to show end-to-end Business Analyst skills in documentation, da
 - **Business Analysis** → Requirements gathering, user stories, workflows  
 - **SQL** → Queries for claims validation, denial trends, provider KPIs  
 - **Power BI** → KPI dashboards for decision support  
-- **Agile Scrum** → Documentation and acceptance criteria  
-
----
-
-## About Me  
-I’m a Business Analyst with 4+ years of experience in **insurance, healthcare, and financial services**. Skilled in requirements gathering, SQL, data visualization, and process optimization. This project reflects how I approach turning **business complexity into clarity and measurable results**.  
+- **Agile Scrum** → Documentation and acceptance criteria   
