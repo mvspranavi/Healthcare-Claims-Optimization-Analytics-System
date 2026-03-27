@@ -1,7 +1,4 @@
-# Business Requirements Document (BRD)  
-**Project**: Healthcare Claims Analysis  
-**Prepared By**: Rishitha Kosuri  
-**Date**: September 2025  
+# Business Requirements Document (BRD)   
 
 ---
 
