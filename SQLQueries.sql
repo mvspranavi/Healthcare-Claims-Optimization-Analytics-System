@@ -1,7 +1,5 @@
 -- ============================================================
 -- Healthcare Claims Analysis - SQL Queries
--- Author: Rishitha Kosuri
--- Date: September 2025
 -- Purpose: Support claims optimization by identifying key KPIs
 -- ============================================================
 
